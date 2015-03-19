@@ -6,4 +6,8 @@ layout: default
 
 $$ x^i $$
 
-$X^j$
+$ X^j $
+
+\( Y^i \)
+
+\[ z^i \]
