@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# mhlr.github.io
+# [mhlr.github.io](https://mhlr.github.io)
 
 $$ x^i $$
 
