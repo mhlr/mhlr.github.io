@@ -1,12 +1,17 @@
-# Site settings
+---
 title: Test
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
 email: your-email@domain.com
-description: > # this means to ignore newlines until "baseurl:"
-  
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://mhlr.github.com" # the base hostname & protocol for your site
+description: ''
+baseurl: ''
+url: http://mhlr.github.com
 twitter_username: dmhlr
-github_username:  mhlr
-
-# Build settings
+github_username: mhlr
 markdown: kramdown
